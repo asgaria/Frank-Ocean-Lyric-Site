@@ -1,7 +1,17 @@
 .App {
   text-align: center;
+  font-family: Futura;
+  align-content: center;
+  justify-content: center;
+  margin:0;
+  padding:0;
+  
 }
 
+html {
+  height: 100%;
+  width:100%
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -13,6 +23,14 @@
   }
 }
 
+h1 {
+  margin: 0;
+}
+h2 {
+  font-weight: lighter;
+  margin:0;
+  padding:2.5%;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
