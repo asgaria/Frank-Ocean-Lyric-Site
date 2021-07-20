@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Frank-Ocean-Lyric-Site/static/css/main.b3dbdf26.chunk.css",
+    "main.js": "/Frank-Ocean-Lyric-Site/static/js/main.d6d7c550.chunk.js",
+    "main.js.map": "/Frank-Ocean-Lyric-Site/static/js/main.d6d7c550.chunk.js.map",
+    "runtime-main.js": "/Frank-Ocean-Lyric-Site/static/js/runtime-main.0d75d4bb.js",
+    "runtime-main.js.map": "/Frank-Ocean-Lyric-Site/static/js/runtime-main.0d75d4bb.js.map",
+    "static/js/2.3cf37248.chunk.js": "/Frank-Ocean-Lyric-Site/static/js/2.3cf37248.chunk.js",
+    "static/js/2.3cf37248.chunk.js.map": "/Frank-Ocean-Lyric-Site/static/js/2.3cf37248.chunk.js.map",
+    "static/js/3.659b82cb.chunk.js": "/Frank-Ocean-Lyric-Site/static/js/3.659b82cb.chunk.js",
+    "static/js/3.659b82cb.chunk.js.map": "/Frank-Ocean-Lyric-Site/static/js/3.659b82cb.chunk.js.map",
+    "index.html": "/Frank-Ocean-Lyric-Site/index.html",
+    "static/css/main.b3dbdf26.chunk.css.map": "/Frank-Ocean-Lyric-Site/static/css/main.b3dbdf26.chunk.css.map",
+    "static/js/2.3cf37248.chunk.js.LICENSE.txt": "/Frank-Ocean-Lyric-Site/static/js/2.3cf37248.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d75d4bb.js",
+    "static/js/2.3cf37248.chunk.js",
+    "static/css/main.b3dbdf26.chunk.css",
+    "static/js/main.d6d7c550.chunk.js"
+  ]
+}
