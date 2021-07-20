@@ -25,7 +25,7 @@ function TwitterButton (props) {
             <button 
                 style={style} 
                 onClick={() => twitterButtonOnClick({lyricText:props.lyricText})}>
-                <img src="/public/images/twitterlogo.png" alt="bird" style={{height:"1.7em", marginRight:"1vw", verticalAlign:"middle"}}></img>
+                <img src="./images/twitterlogo.png" alt="bird" style={{height:"1.7em", marginRight:"1vw", verticalAlign:"middle"}}></img>
                 Subtweet</button>);
         }
         else{

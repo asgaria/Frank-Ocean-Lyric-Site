@@ -36,7 +36,7 @@ class AlbumButton extends Component {
         return (
             <StyleRoot>
             <div style={{paddingLeft:'1vw', paddingRight:'1vw'}}>
-                <img src={("/images/" + this.props.name + ".jpg")} alt={this.props.name} 
+                <img src={("./images/" + this.props.name + ".jpg")} alt={this.props.name} 
                     style={albumStyle
                         } 
                     onClick={this.props.onClick}></img>
